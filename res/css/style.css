@@ -1,0 +1,27 @@
+#obal{
+    display: flex;
+    width: 80%;
+    margin: auto;
+   
+}
+.maly{
+    width: 33%;
+    margin-top: 200px;
+}
+.obr{
+    width: 50%;
+    text-align: center;
+    height: 120px;
+    cursor: pointer;
+    
+    
+    
+}
+#obr1{
+    width: 500px;
+    height: 250px;
+    margin: auto;
+}
+.velky{
+    text-align: center;
+}
